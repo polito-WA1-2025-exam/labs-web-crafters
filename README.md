@@ -1,7 +1,7 @@
-# Group "GROUP NAME"
+# Group "Web Crafters"
 
 ## Members
-- s123456 LASTNAME FIRSTNAME
+- s336521 Zhanibek Meirat
 - s123456 LASTNAME FIRSTNAME
 - s123456 LASTNAME FIRSTNAME
 
