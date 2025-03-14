@@ -7,7 +7,14 @@
 - s338906 Madia    Anna
 
 # Exercise "Database and Methods"
+### Overview
+This file contains the descriptions of the objects used in the lab.
 
+#### Picture
+Represents the object Picture and has:
+ - PictureId
+ - PictureDesc
+ - PicturePath
 
 
 # Lab Journal
