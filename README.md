@@ -6,7 +6,9 @@
 - s347126 Ennadi Meryam
 - s338906 Madia    Anna
 
-# Exercise "NAME OF EXERCISE"
+# Exercise "Database and Methods"
+
+
 
 # Lab Journal
 
