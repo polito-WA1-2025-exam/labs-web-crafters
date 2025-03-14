@@ -2,8 +2,9 @@
 
 ## Members
 - s336521 Zhanibek Meirat
-- s123456 LASTNAME FIRSTNAME
-- s123456 LASTNAME FIRSTNAME
+- s357301 Di Tella Nazaro
+- s347126 Ennadi Meryam
+- s338906 Madia    Anna
 
 # Exercise "NAME OF EXERCISE"
 
