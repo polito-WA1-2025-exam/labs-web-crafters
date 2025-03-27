@@ -1,0 +1,55 @@
+### Get all players
+GET http://localhost:3000/players
+Content-Type: application/json
+
+### Get a specific player by ID
+GET http://localhost:3000/players/1
+Content-Type: application/json
+
+### Get all players with totalScore = 20
+GET http://localhost:3000/players/score/20
+Content-Type: application/json
+
+
+### Create a new player
+POST http://localhost:3000/players
+Content-Type: application/json
+
+{
+  "name": "Giulia Neri",
+  "isRegistered": true,
+  "totalScore": 15
+}
+
+
+### Full update of a player (PUT)
+PUT http://localhost:3000/players/1
+Content-Type: application/json
+
+{
+  "name": "Mario Verdi",
+  "isRegistered": false,
+  "totalScore": 50
+}
+
+### Partial update (only score)
+PATCH http://localhost:3000/players/1
+Content-Type: application/json
+
+{
+  "totalScore": 75
+}
+
+
+### Partial update (only isRegistered)
+PATCH http://localhost:3000/players/1
+Content-Type: application/json
+
+{
+  "isRegistered": true
+}
+
+
+### Delete a player
+DELETE http://localhost:3000/players/19
+Content-Type: application/json
