@@ -103,7 +103,6 @@ function RoundWrapper() {
     this.getAll = () => arrayRounds;
 }
 
-
 //populating collections
 
 //Memes
@@ -134,7 +133,6 @@ console.log("Tutte le caption:", captions);
  *                                                 LAB 2                                                                         * 
  *                                                                                                                               *
  *********************************************************************************************************************************/
-
 
 import sqlite3 from "sqlite3";
 
@@ -355,8 +353,7 @@ app.use(cors());
 app.use(morgan('dev'));
 app.use(express.json());
 
-
-//routes
+ //routes
 
  //Retrieve all players
  
