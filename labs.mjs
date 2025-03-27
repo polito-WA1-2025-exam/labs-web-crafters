@@ -104,7 +104,7 @@ function RoundWrapper() {
 }
 
 
-//populate collections
+//populating collections
 
 //Memes
 const memes = new PictureWrapper();
